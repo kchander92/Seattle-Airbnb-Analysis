@@ -27,7 +27,7 @@ The two datasets listings.csv and reviews.csv from [Kaggle](https://www.kaggle.c
 The code is executed in the Jupyter Notebook file Seattle_AirBnb_analysis.ipynb, which is written fully in Python 3.
 
 ## Results <a name="results"></a>
-See the results discussed in this Medium post.
+See the results discussed in [this Medium post](https://medium.com/@krishnan.chander/how-does-airbnb-appeal-to-seattle-visitors-143587f6a9fd).
 
 ## Licensing <a name="licensing"></a>
 As per the [original data source](http://insideairbnb.com/get-the-data/), this data is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
